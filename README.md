@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, My name is Aleksa ! 👋<br>I'm a Computer Science student at IUT de Montreuil (France).  🎓<br>I love coding, basketball and video games. ⌨️🏀🎮
+# 💫 About Me: Hello, My name is Aleksa ! 👋:
+<br>I'm a Computer Science student at IUT de Montreuil (France).  🎓<br>I love coding, basketball and video games. ⌨️🏀🎮
 
 
 ## 🌐 Socials:
